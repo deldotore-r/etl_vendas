@@ -4,7 +4,17 @@
 
 # Projeto ETL e Análise de Vendas 2024
 
-Este projeto demonstra um pipeline ETL simples aplicado a dados de vendas fictícias de 2024, com foco em **transformar dados brutos em informações organizadas** e gerar gráficos úteis para tomada de decisão.
+📈 Transformar dados em decisões é mais do que uma habilidade técnica — é uma forma de pensar. 
+
+🔄 Neste projeto, desenvolvi a primeira parte de um pipeline ETL completo para tratar e analisar dados de vendas fictícias, enfrentando problemas reais como formatos inconsistentes, valores corrompidos e categorias duplicadas. Utilizei Pandas e Matplotlib para limpar, padronizar e estruturar os dados, gerando visualizações com contexto estatístico que revelam padrões, sazonalidades e oportunidades de negócio.
+
+🌐Os próximos passos serão:
+
+ - Elaborar análises estatísticas mais densas
+ - Dockerizar o projeto e orquestrar com Airflow
+ - Transportar o projeto para a nuvem (AWS)
+
+🎯Mais do que entregar gráficos, este projeto mostra a importância de identificar problemas, propor soluções e comunicar resultados com clareza.
 
 ---
 <br>
@@ -244,12 +254,10 @@ E ainda:
 - Armazenamento e versionamento de dados em **AWS S3**.  
 - Dashboards interativos para análise em tempo real usando **Plotly ou Dash**.  
 - Expansão para análise de promoções, clientes, categorias e regiões específicas.  
+- Criar dashboards interativos (Plotly ou Dash).
+- Expandir análises para clientes, promoções ou categorias.
 
 Por fim, este projeto evidencia como um pipeline simples, quando bem estruturado, pode gerar informações relevantes e confiáveis, servindo tanto para aprendizado quanto como protótipo para aplicações reais em empresas de qualquer ramo.
-
-- Criar dashboards interativos (Plotly ou Dash).
-
-- Expandir análises para clientes, promoções ou categorias.
 
 
 
