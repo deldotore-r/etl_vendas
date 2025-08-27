@@ -188,6 +188,26 @@ if __name__ == "__main__":
     analyze_sales()
 
 ```
+<br>
+
+Gráfico 1: Vvendas por mês
+
+
+<img src="assets/graph_1.png" alt="Gráfico: vendas por mês" style="width:500px; height:300px;">
+
+<br>
+
+Gráfico 2: Top 10 produtos mais vendidos
+
+
+<img src="assets/graph_2.png" alt="Gráfico: vendas por mês" style="width:500px; height:300px;">
+
+<br>
+
+Gráfico 3: Vendas por região
+
+
+<img src="assets/graph_2.png" alt="Gráfico: vendas por mês" style="width:500px; height:300px;">
 
 ---
 
