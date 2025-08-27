@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)  
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+
+
 # Projeto ETL e Análise de Vendas 2024
 
 Este projeto demonstra um pipeline ETL simples aplicado a dados de vendas fictícias de 2024, com foco em **transformar dados brutos em informações organizadas** e gerar gráficos úteis para tomada de decisão.
@@ -190,7 +194,9 @@ if __name__ == "__main__":
 ```
 <br>
 
-Gráfico 1: Vvendas por mês
+## 📊 Gráficos Gerados
+
+Gráfico 1: Vendas por mês
 
 
 <img src="assets/graph_1.png" alt="Gráfico: vendas por mês" style="width:500px; height:300px;">
@@ -207,7 +213,7 @@ Gráfico 2: Top 10 produtos mais vendidos
 Gráfico 3: Vendas por região
 
 
-<img src="assets/graph_2.png" alt="Gráfico: vendas por mês" style="width:500px; height:300px;">
+<img src="assets/graph_3.png" alt="Gráfico: vendas por mês" style="width:500px; height:300px;">
 
 ---
 
