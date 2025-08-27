@@ -12,12 +12,13 @@ Este projeto demonstra um pipeline ETL simples aplicado a dados de vendas fictí
 
 ```
 ├── data/
-│ └── sales_2024.csv # CSV original com dados brutos
-├── sales_clean.py # Script do ETL
-├── sales_analysis.py # Script que gera gráficos
-├── sales_by_month.png # Gráfico de vendas mensais
-├── top_products.png # Gráfico Top 10 produtos
-├── sales_by_region.png # Gráfico vendas por região
+│ └── sales_2024.csv
+├── assets/
+│ ├── sales_by_month.png
+│ ├── top_products.png
+│ └── sales_by_region.png
+├── sales_clean.py
+├── sales_analysis.py
 └── README.md
 ```
 
