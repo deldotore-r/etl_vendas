@@ -230,6 +230,16 @@ Este projeto demonstrou um pipeline ETL completo e simples, aplicado a dados de 
 
 Além disso, este projeto serve como **base para melhorias futuras**, como:
 
+- Análise de sazonalidade por categoria
+- Ticket médio por região
+- Frequência de compra por cliente
+- Elasticidade de preço por produto
+- Análise de mix de produtos por região
+- Detecção de outliers operacionais
+- Correlação entre categorias e localização
+
+E ainda:
+
 - Automação do ETL e geração de gráficos com **Airflow**.  
 - Armazenamento e versionamento de dados em **AWS S3**.  
 - Dashboards interativos para análise em tempo real usando **Plotly ou Dash**.  
